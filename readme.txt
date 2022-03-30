@@ -1,0 +1,1 @@
+1- Before running this project please run "npm i" command
